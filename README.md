@@ -21,7 +21,8 @@ A challenge I ran into here was figuring out how this formula worked – Google 
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-The results were interesting – as far as the outcomes by launch date, those the highest number of successful plays was launched in May, followed by June. However, May was also the month with the highest number of failed plays – most likely because May has the highest number of started campaigns overall. However, there are many more successful plays than failed ones in May, proportionately. December, on the other hand, not only had the lowest number of successful plays, but also had about a 50/50 situation going on as far as successful vs failed plays, pointing to the fact that December is the worst month to launch plays.
+The results were interesting – as far as the outcomes by launch date, those the highest number of successful plays was launched in May, followed by June. However, May was also the month with the highest number of failed plays – most likely because May has the highest number of started campaigns overall. However, there are many more successful plays than failed ones in May, proportionately. December, on the other hand, not only had the lowest number of successful plays, but also had about a 50/50 situation going on as far as successful vs failed plays, pointing to the fact that December is the worst month to launch plays. 
+Here is the chart outlining the data I've described:
 
 - What can you conclude about the Outcomes based on Goals?
 
