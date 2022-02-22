@@ -20,7 +20,9 @@ Challenges I ran into included figuring out how to group the rows for the "outco
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 The results were interesting – as far as the outcomes by launch date, those the highest number of successful plays was launched in May, followed by June. However, May was also the month with the highest number of failed plays – most likely because May has the highest number of started campaigns overall. However, there are many more successful plays than failed ones in May, proportionately. 
+
 December, on the other hand, not only had the lowest number of successful plays, but also had about a 50/50 situation going on as far as successful vs failed plays, pointing to the fact that December is the worst month to launch plays overall. 
+
 The graph below shows both of these conclusions - with May being the month with the largest space between successful and failed plays, with a huge peak compared to all other months, and December dipping down to not only the lowest month with successes, but the smallest difference, proportionately, when comparing successful and failed campaigns.
 
 ![Theater Outcomes vs Launch](Resources/Theater_Outcomes_VS_Launch.png)
